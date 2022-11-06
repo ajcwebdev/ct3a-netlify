@@ -1,5 +1,6 @@
 {
   "name": "ct3a-netlify",
+  "description": "An example T3 application with Next.js, Prisma, tRPC, and Tailwind deployed on Netlify",
   "version": "0.1.0",
   "private": true,
   "scripts": {
